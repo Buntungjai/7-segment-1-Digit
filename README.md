@@ -5,3 +5,8 @@ HOW TO USE อย่าลืมต่อ ตัวต้านทาน 220 โ
 ในคลิปคือการต่อตาม Cathode (A): พิน เบอร์ 3 หรือ 8 ให้ต่อกับ GND ของ arduino
 <br>
 <img width="604" height="594" alt="image" src="https://github.com/user-attachments/assets/94ab348f-41ea-4a27-b29d-76e370baaadd" />
+
+<br>
+<p align="center">
+  <img src="7segment_bb.png" alt="4-Digit 7-Segment Display" width="400">
+</p>
