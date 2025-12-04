@@ -8,6 +8,19 @@ HOW TO USE อย่าลืมต่อ ตัวต้านทาน 220 โ
 <img width="604" height="594" alt="image" src="https://github.com/user-attachments/assets/94ab348f-41ea-4a27-b29d-76e370baaadd" />
 
 <br>
+จากวงจร circuit ต่อ GND ที่เบอร์ 8 ของหน้าจอ 
+และต่อเบอร์ 1 - 10 ของหน้าจอ เข้ากับพินของ arduino คือ
+1 >> 10
+2 >> 11
+3 >> (ว่าง)
+4 >> 5
+5 >> 4
+6 >> 6
+7 >> 7
+8 >> GND
+9 >> 8
+10 >> 9
+
 <p align="center">
   <img src="7segment_bb.png" alt="4-Digit 7-Segment Display" width="400">
 </p>
