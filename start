@@ -3,10 +3,10 @@ int b=6;
 int c=5; 
 int d=11; 
 int e=10; 
-int
-  f=8; 
+int f=8; 
 int g=9; 
 int dp=4; 
+
 //display number 1
 void display1(void) 
 {
